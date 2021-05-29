@@ -7,7 +7,7 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### Dwonload&Install
 
-### git clone https://github.com/Ha3MrX/DDos-Attack
+### git clone https://github.com/getgaming/DDoS-Attack
 
 ### cd DDos-Attack
 
@@ -21,9 +21,9 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### YouTube channel
 
-https://www.youtube.com/c/HA-MRX
+https://youtube.com/GetGamingYT
 
 ### Video Tutorial
 
-https://www.youtube.com/watch?v=-e3Iia_P7rA
+https://youtu.be/AnocklBiqlw
 
