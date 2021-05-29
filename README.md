@@ -21,5 +21,5 @@ https://youtube.com/GetGamingYT
 
 ### Video Tutorial
 
-https://youtu.be/AnocklBiqlw
+https://youtu.be/AnocklBiqIw
 
