@@ -22,7 +22,7 @@ os.system("figlet DDos Attack")
 print
 print "Maker: GetGaming"
 print "YouTube : https://www.youtube.com/GetGaming"
-print "GitHub   : https://github.com/getgamingyt"
+print "GitHub   : https://github.com/getgaming"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
