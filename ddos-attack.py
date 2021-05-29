@@ -20,8 +20,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 print
-print "Maker
-: GetGaming"
+print "Maker: GetGaming"
 print "YouTube : https://www.youtube.com/GetGaming"
 print "GitHub   : https://github.com/getgamingyt"
 print
